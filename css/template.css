@@ -11,7 +11,7 @@ html, body {
 	padding: 0;
 }
 body {
-	color: #263238;
+	color: #2f3640;
 	font-size: 13px;
 	font-weight: 300;
 	position: relative;
@@ -32,7 +32,7 @@ hr {
 a {
 	text-decoration: none;
 	outline: none;
-	color: #263238;
+	color: #2f3640;
 	-webkit-transition: all .3s ease-in-out;
 	   -moz-transition: all .3s ease-in-out;
 		 -o-transition: all .3s ease-in-out;
@@ -148,7 +148,7 @@ header {
 	text-align: center;
 	padding: 35px 20px;
 	margin-bottom: 35px;
-	background: #263238;
+	background: #2f3640;
 }
 header .avatar {
 	width: 150px;
@@ -194,7 +194,7 @@ section .nino-sectionHeading {
 	font-weight: 700;
 }
 section .nino-sectionHeading .nino-icon {
-	background: #263238;
+	background: #2f3640;
 	padding: 8px;
 	border-radius: 50%;
 	margin-right: 10px;
@@ -248,7 +248,7 @@ article .nino-articleMeta .nino-icon {
 }
 #nino-leftSide .nino-listWithIcon .nino-icon {
 	background: #fff;
-	color: #263238;
+	color: #2f3640;
 	padding: 5px;
 	border-radius: 50%;
 	margin: 0 15px 0 4px;
@@ -263,7 +263,7 @@ article .nino-articleMeta .nino-icon {
 	height: 8px;
 }
 #nino-leftSide .nino-mySkill .progress-bar {
-	background-color: #263238;
+	background-color: #2f3640;
 }
 /* =============== MAIN PAGE =============== */
 #nino-mainContent .nino-languages {
