@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Mr+De+Haviland&family=Roboto+Slab:wght@100&display=swap');
 html {
 	font-family: sans-serif;
 	-webkit-text-size-adjust: 100%;
@@ -14908,7 +14907,7 @@ header {
 header .avatar {
 	width: 150px;
 	border-radius: 50%;
-	background: #37474f;
+	background: #2f3640;
 	padding: 4px;
 	margin-bottom: 10px
 }
@@ -15102,7 +15101,7 @@ article .nino-articleMeta .nino-icon {
 	color: #ed2b24;
 	font-size: 35px;
 	font-weight: 700;
-	font-family: 'Mr De Haviland', cursive;
+font-family: 'Mr De Haviland', cursive;
 	font-display: swap
 }
 
@@ -15118,7 +15117,7 @@ article .nino-articleMeta .nino-icon {
 	display: none;
 	cursor: pointer;
 	z-index: 2;
-	background: #37474f url(https://wdiasvargas.dev/css../images/go-to-top.png) center center no-repeat
+	background: #37474f url(https://wdiasvargas.dev/images/go-to-top.png) center center no-repeat
 }
 
 #nino-scrollToTop:hover {
