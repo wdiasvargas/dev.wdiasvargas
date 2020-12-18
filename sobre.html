@@ -1,220 +1,221 @@
 <!DOCTYPE html>
 <html lang=pt-BR>
 
-<head>
-    <meta http-equiv=Content-Type content="text/html; charset=UTF-8" />
-    <meta name=viewport content="width=device-width, initial-scale=1.0">
-    <meta name=description content>
-    <meta name=author content="wdiasvargas.dev, williamdiasvargas@gmail.com">
-    <meta name=copyright content=wdiasvargas.dev>
-    <title>William Dias Vargas</title>
-    <link rel="shortcut icon"
-        href="data:image/x-icon;base64,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" />
-    <link rel=mask-icon href=/safari-pinned-tab.svg color="#5bbad5" />
-    <meta name=msapplication-TileColor content="#fcfcfc" />
-    <meta name=theme-color content=#ffffff>
-    <link rel=preload defer async
-        href=https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css
-        integrity="sha512-oc9+XSs1H243/FRN9Rw62Fn8EtxjEYWHXRvjS43YtueEewbS6ObfXcJNyohjHqVKFPoXXUxwc+q1K7Dee6vv9g=="
-        crossorigin="anonymous" />
-    <link rel=preload defer async href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
-        integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
-        crossorigin="anonymous" />
-    <link rel=preload defer async href=../css/template.css as=style onload="this.onload=null;this.rel='stylesheet'">
-    <noscript>
-        <link rel=stylesheet defer async href=../css/template.css>
-    </noscript>
-</head>
+    <head>
+        <meta http-equiv=Content-Type content="text/html; charset=UTF-8" />
+        <meta name=viewport content="width=device-width, initial-scale=1.0">
+        <meta name=description content>
+        <meta name=author content="wdiasvargas.dev, williamdiasvargas@gmail.com">
+        <meta name=copyright content=wdiasvargas.dev>
+        <title>William Dias Vargas</title>
+        <link rel="shortcut icon"
+            href="data:image/x-icon;base64,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" />
+        <link rel=mask-icon href=/safari-pinned-tab.svg color="#5bbad5" />
+        <meta name=msapplication-TileColor content="#fcfcfc" />
+        <meta name=theme-color content=#ffffff>
+        <link rel=preload defer async
+            href=https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css
+            integrity="sha512-oc9+XSs1H243/FRN9Rw62Fn8EtxjEYWHXRvjS43YtueEewbS6ObfXcJNyohjHqVKFPoXXUxwc+q1K7Dee6vv9g=="
+            crossorigin="anonymous" />
+        <link rel=preload defer async href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+            integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+            crossorigin="anonymous" />
+        <link rel=preload defer async href=../css/template.css as=style onload="this.onload=null;this.rel='stylesheet'">
+        <noscript>
+            <link rel=stylesheet defer async href=../css/template.css>
+        </noscript>
+    </head>
 
-<body>
-    <div id=nino-cvWrap>
-        <nav id=mainMenu>
-            <ul>
-                <li><a href=sobre.html><i class="mdi mdi-human nino-icon"></i>Sobre mim</a></li>
-                <li><a href=projetos.html><i class="mdi mdi-factory nino-icon"></i>Projetos</a></li>
-                <li><a href=materiais.html><i class="mdi mdi-presentation-play nino-icon"></i>Materiais</a></li>
-                <li><a href=certificados.html><i class="mdi mdi-school nino-icon"></i>Certificados</a></li>
-                <li><a href=redes-sociais.html><i class="mdi mdi-account-multiple nino-icon"></i>Redes Sociais</a>
-                </li>
-            </ul>
-        </nav>
-        <div layout=row class=fw>
-            <div id=nino-leftSide class=fsr>
-                <div layout=row class=fw>
-                    <header class="col-md-12 col-sm-6 col-xs-12">
-                        <a href="index.html" rel="noopener noreferrer"> <img src=images/avatar.jpg alt
-                                class=avatar>
-                        </a>
-                        <h1 class=name>William Dias Vargas</h1>
-                        <h3 class=regency> <i>Professor de Informática</i></h3>
-                    </header>
-                    <section class="nino-aboutMe col-md-12 col-sm-6 col-xs-12">
-                        <h2 class=nino-sectionHeading> <i class="mdi mdi-account nino-icon"></i>Bio</h2>
-                        <div class="nino-sectionContent indent-text">
-                            <p>Informata licenciado, 5 anos de experiência, pós-graduando em <b>estatística
-                                    aplicada</b>, pós-graduado em <b>docência no ensino superior</b>. Programador
-                                Javascript, iniciante em Python e R.</p>
-                            <ul>
-                                <b>Áreas de Interesse:</b>
-                                <li> <i>Programação Funcional λ,</i></li>
-                                <li> <i>Estatística Computacional Σ,</i></li>
-                                <li> <i>Visualização de Dados,</i></li>
-                                <li> <i>Aprendizagem de Máquina.</i></li>
+    <body>
+        <div id=nino-cvWrap>
+            <nav id=mainMenu>
+                <ul>
+                    <li><a href=sobre.html><i class="mdi mdi-human nino-icon"></i>Sobre mim</a></li>
+                    <li><a href=projetos.html><i class="mdi mdi-factory nino-icon"></i>Projetos</a></li>
+                    <li><a href=materiais.html><i class="mdi mdi-presentation-play nino-icon"></i>Materiais</a></li>
+                    <li><a href=certificados.html><i class="mdi mdi-school nino-icon"></i>Certificados</a></li>
+                    <li><a href=redes-sociais.html><i class="mdi mdi-account-multiple nino-icon"></i>Redes Sociais</a>
+                    </li>
+                </ul>
+            </nav>
+            <div layout=row class=fw>
+                <div id=nino-leftSide class=fsr>
+                    <div layout=row class=fw>
+                        <header class="col-md-12 col-sm-6 col-xs-12">
+                            <a href="index.html" rel="noopener noreferrer"> <img src=images/avatar.jpg alt class=avatar>
+                            </a>
+                            <h1 class=name>William Dias Vargas</h1>
+                            <h3 class=regency> <i>Professor de Informática</i></h3>
+                        </header>
+                        <section class="nino-aboutMe col-md-12 col-sm-6 col-xs-12">
+                            <h2 class=nino-sectionHeading> <i class="mdi mdi-account nino-icon"></i>Bio</h2>
+                            <div class="nino-sectionContent indent-text">
+                                <p>Informata licenciado, 5 anos de experiência, pós-graduando em <b>estatística
+                                        aplicada</b>, pós-graduado em <b>docência no ensino superior</b>. Programador
+                                    Javascript, iniciante em Python e R.</p>
+                                <ul>
+                                    <b>Áreas de Interesse:</b>
+                                    <li> <i>Programação Funcional λ,</i></li>
+                                    <li> <i>Estatística Computacional Σ,</i></li>
+                                    <li> <i>Visualização de Dados,</i></li>
+                                    <li> <i>Aprendizagem de Máquina.</i></li>
+                                </ul>
+                            </div>
+                        </section>
+                        <section class="nino-contactInfo col-md-12 col-sm-6 col-xs-12">
+                            <h2 class=nino-sectionHeading> <i class="mdi mdi-contact-mail nino-icon"></i>Contato</h2>
+                            <ul class=nino-listWithIcon>
+                                <li layout=row>
+                                    <div class=fsr> <i class="mdi mdi-map-marker nino-icon"></i></div>
+                                    <div class=fg> <a href=https://www.google.com/maps/@-25.4466466,-54.5581667,21z
+                                            target=_blank rel="noopener noreferrer">882, São Luis, Foz do Iguaçu -
+                                            BR</a>
+                                    </div>
+                                </li>
+                                <li layout=row>
+                                    <div class=fsr> <i class="mdi mdi-email nino-icon"></i></div>
+                                    <div class=fg> <a
+                                            href="mailto:williamdiasvargas@gmail.com">williamdiasvargas@gmail.com</a>
+                                    </div>
+                                </li>
+                                <li layout=row>
+                                    <div class=fsr> <i class="mdi mdi-cellphone-iphone nino-icon"></i></div>
+                                    <div class=fg> <a href="https://wa.me/5566981420120" target=_blank
+                                            rel="noopener noreferrer">+55 66 9.81420120</a></div>
+                                </li>
+                                <li layout=row>
+                                    <div class=fsr> <i class="mdi mdi-linkedin-box nino-icon"></i></div>
+                                    <div class=fg> <a target=_blank rel="noopener noreferrer"
+                                            href="https://www.linkedin.com/in/wdiasvargas" />/wdiasvargas</a></div>
+                                    <div class=fsr> <i class="mdi mdi-newspaper nino-icon"></i></div>
+                                    <div class=fg> <a target=_blank rel="noopener noreferrer"
+                                            href="https://medium.com/@wdiasvargas">/wdiasvargas</a></div>
+                                </li>
                             </ul>
+                        </section>
+                        <section class="nino-mySkill col-md-12 col-sm-6 col-xs-12">
+                            <h2 class=nino-sectionHeading> <i class="mdi mdi-web nino-icon"></i> Idiomas</h2>
+                            <ul class=nino-listWithIcon>
+                                <li layout=row>
+                                    <div class=fg>
+                                        <p> Inglês</p>
+                                        <div class=progress>
+                                            <div class=progress-bar role=progressbar aria-valuenow=76 aria-valuemin=0
+                                                aria-valuemax=100 style=width:76%> <span class=sr-only>76%
+                                                    Complete</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li layout=row>
+                                    <div class=fg>
+                                        <p>Francês</p>
+                                        <div class=progress>
+                                            <div class=progress-bar role=progressbar aria-valuenow=66 aria-valuemin=0
+                                                aria-valuemax=100 style=width:66%> <span class=sr-only>66%
+                                                    Complete</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li layout=row>
+                                    <div class=fg>
+                                        <p>Italiano</p>
+                                        <div class=progress>
+                                            <div class=progress-bar role=progressbar aria-valuenow=33 aria-valuemin=0
+                                                aria-valuemax=100 style=width:33%> <span class=sr-only>33%
+                                                    Complete</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </section>
+                    </div>
+                </div>
+                <div id="nino-rightSide" class="fg">
+                    <main id="nino-mainContent">
+                        <div class="container">
+                            <section>
+                                <h2 class="nino-sectionHeading">
+                                    <i class="mdi mdi-human nino-icon"></i>SOBRE MIM </h2>
+                                <div class="nino-sectionContent">
+                                    <article id="nino-coverLetter">
+                                        <div layout="row" class="nino-coverLetterHeader">
+                                            <div class="fg">
+                                                <strong>Para:</strong> Senhor(a) <br> Entrevistador(a), UFGRS </div>
+                                            <div class="fsr date"> 11 Dez 2020 </div>
+                                        </div>
+                                        <div class="nino-coverLetterContent indent-text">
+                                            <p> Em 2017, concluí o curso de graduação de nível superior em Licenciatura
+                                                em Computação. A minha pesquisa de trabalho de conclusão de curso de
+                                                nível superior para obtenção do diploma em Licenciatura em Computação,
+                                                foi sobre o uso da programação para o ensino e aprendizado da
+                                                estatística com tema <i><strong><a
+                                                            href="https://drive.google.com/file/d/0B4S2QGC3ujQ2cEl1S3lSQnVLUG8/view"
+                                                            target="_blank" rel="noopener oreferrer">DESENVOLVIMENTO DE
+                                                            UMA BIBLIOTECA EM JAVASCRIPT PARA RESOLUÇÃO DE PROBLEMAS DE
+                                                            ESTATÍSTICA DESCRITIVA.</a></strong></i>, a formulação e
+                                                execução de tal trabalho despertou em mim o interesse nessa área de
+                                                pesquisa, mediante os desafios encontrados ao longo do processo. Neste
+                                                momento gostaria de me candidatar a vaga de discente do curso de
+                                                pós-graduação strictu senso em Estatística Computacional pela UFRGS.</p>
+                                            <p>Com 5 anos de experiência profissional, me dediquei ao aperfeiçoamento
+                                                das habilidades, atuando como docente de informática, promovendo o
+                                                ensino de informática básica e profissionalizante, tive a oportunidade
+                                                de ministrar aulas de introdução a lógica de programação, programação
+                                                para internet, criação de aplicativos e jogos eletrônicos. No início do
+                                                período da pandemia coordenei informalmente o treinamento de 15
+                                                professores multidisciplinares na utilização do Google Sala de Aula, e
+                                                na criação de conteúdo (gravação de aulas, criação de slides e
+                                                formulários digitais ) para essa plataforma virtual de aprendizado.Tenho
+                                                me aperfeiçoado nas áreas da docência, estou finalizando o treinamento
+                                                para obter a certificação do Google de Educator Nível 1, concluí o curso
+                                                de pós-graduação em Docência no Ensino Superior pela Unicesumar,
+                                                atualmente Cursando pós-graduação em Estatística Aplicada pela
+                                                Universidade Anhanguera.</p>
+                                            <p>O meu objetivo como discente no programa de pós-graduação em estatística
+                                                na UFGRS é cooperar nos projetos de pesquisa do uso da estatística no
+                                                ambiente acadêmico e profissional com vistas à promoção e difusão do
+                                                conhecimento, atuando futuramente como docente nas disciplinas de nível
+                                                superior correlatas, eu tenho interesse nas linhas de pesquisa: </p>
+                                            <ul>
+                                                <li>Algoritmos de otimização,</li>
+                                                <li> Métodos de agrupamento,</li>
+                                                <li> Técnicas computacionais de seleção de modelo.</li>
+                                            </ul>
+                                            <p>Anseio pela oportunidade de cursar o mestrado em Estatística
+                                                Computacional, acreditando na qualidade do curso, dos profissionais e da
+                                                instituição para o meu crescimento profissional e acadêmico.</p>
+                                            </p>
+                                        </div>
+                                        <div class="nino-coverLetterFooter">
+                                            <div>Atenciosamente,</div>
+                                            <div class="nino-sign">William Dias Vargas</div>
+                                        </div>
+                                    </article>
+                                </div>
+                            </section>
                         </div>
-                    </section>
-                    <section class="nino-contactInfo col-md-12 col-sm-6 col-xs-12">
-                        <h2 class=nino-sectionHeading> <i class="mdi mdi-contact-mail nino-icon"></i>Contato</h2>
-                        <ul class=nino-listWithIcon>
-                            <li layout=row>
-                                <div class=fsr> <i class="mdi mdi-map-marker nino-icon"></i></div>
-                                <div class=fg> <a href=https://www.google.com/maps/@-25.4466466,-54.5581667,21z
-                                        target=_blank rel="noopener noreferrer">882, São Luis, Foz do Iguaçu - BR</a>
-                                </div>
-                            </li>
-                            <li layout=row>
-                                <div class=fsr> <i class="mdi mdi-email nino-icon"></i></div>
-                                <div class=fg> <a
-                                        href="mailto:williamdiasvargas@gmail.com">williamdiasvargas@gmail.com</a></div>
-                            </li>
-                            <li layout=row>
-                                <div class=fsr> <i class="mdi mdi-cellphone-iphone nino-icon"></i></div>
-                                <div class=fg> <a href="https://wa.me/5566981420120" target=_blank
-                                        rel="noopener noreferrer">+55 66 9.81420120</a></div>
-                            </li>
-                            <li layout=row>
-                                <div class=fsr> <i class="mdi mdi-linkedin-box nino-icon"></i></div>
-                                <div class=fg> <a target=_blank rel="noopener noreferrer"
-                                        href="https://www.linkedin.com/in/wdiasvargas" />/wdiasvargas</a></div>
-                                <div class=fsr> <i class="mdi mdi-newspaper nino-icon"></i></div>
-                                <div class=fg> <a target=_blank rel="noopener noreferrer"
-                                        href="https://medium.com/@wdiasvargas">/wdiasvargas</a></div>
-                            </li>
-                        </ul>
-                    </section>
-                    <section class="nino-mySkill col-md-12 col-sm-6 col-xs-12">
-                        <h2 class=nino-sectionHeading> <i class="mdi mdi-web nino-icon"></i> Idiomas</h2>
-                        <ul class=nino-listWithIcon>
-                            <li layout=row>
-                                <div class=fg>
-                                    <p> Inglês</p>
-                                    <div class=progress>
-                                        <div class=progress-bar role=progressbar aria-valuenow=76 aria-valuemin=0
-                                            aria-valuemax=100 style=width:76%> <span class=sr-only>76% Complete</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li layout=row>
-                                <div class=fg>
-                                    <p>Francês</p>
-                                    <div class=progress>
-                                        <div class=progress-bar role=progressbar aria-valuenow=66 aria-valuemin=0
-                                            aria-valuemax=100 style=width:66%> <span class=sr-only>66% Complete</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li layout=row>
-                                <div class=fg>
-                                    <p>Italiano</p>
-                                    <div class=progress>
-                                        <div class=progress-bar role=progressbar aria-valuenow=33 aria-valuemin=0
-                                            aria-valuemax=100 style=width:33%> <span class=sr-only>33% Complete</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </section>
+                    </main>
                 </div>
             </div>
-         <div id="nino-rightSide" class="fg">
-            <main id="nino-mainContent">
-<div class="container">
-               <section>
-                  <h2 class="nino-sectionHeading">
-                     <i class="mdi mdi-human nino-icon"></i>SOBRE MIM
-                  </h2>
-                  <div class="nino-sectionContent">
-                     <article id="nino-coverLetter">
-                        <div layout="row" class="nino-coverLetterHeader">
-                           <div class="fg">
-                              <strong>Para:</strong>
-                              Senhor(a)
-                              <br>
-                              Entrevistador(a), UFGRS
-                           </div>
-                           <div class="fsr date">
-                              11 Dez 2020
-                           </div>
-                        </div>
-                        <div class="nino-coverLetterContent indent-text">
-                           <p>
-                              Em 2017, concluí o curso de graduação de nível superior em Licenciatura em Computação. A
-                              minha pesquisa de trabalho de conclusão de curso de nível superior para obtenção do
-                              diploma em Licenciatura em Computação, foi sobre o uso da programação para o ensino e
-                              aprendizado da estatística com tema <i><strong><a
-                                          href="https://drive.google.com/file/d/0B4S2QGC3ujQ2cEl1S3lSQnVLUG8/view"
-                                          target="_blank" rel="noopener oreferrer">DESENVOLVIMENTO DE UMA BIBLIOTECA EM
-                                          JAVASCRIPT PARA RESOLUÇÃO DE PROBLEMAS DE ESTATÍSTICA
-                                          DESCRITIVA.</a></strong></i>, a formulação e execução de tal trabalho
-                              despertou em mim o interesse nessa área de pesquisa, mediante os desafios encontrados ao
-                              longo do processo. Neste momento gostaria de me candidatar a vaga de discente do curso de
-                              pós-graduação strictu senso em Estatística Computacional pela UFRGS.</p>
- 
-<p>Com 5 anos de experiência profissional, me dediquei ao aperfeiçoamento das habilidades, atuando como docente de
-    informática, promovendo o ensino de informática básica e profissionalizante, tive a oportunidade de ministrar aulas
-    de introdução a lógica de programação, programação para internet, criação de aplicativos e jogos eletrônicos. No
-    início do período da pandemia coordenei informalmente o treinamento de 15 professores multidisciplinares na
-    utilização do Google Sala de Aula, e na criação de conteúdo (gravação de aulas, criação de slides e formulários
-    digitais ) para essa plataforma virtual de aprendizado.Tenho me aperfeiçoado nas áreas da docência, estou
-    finalizando o treinamento para obter a certificação do Google de Educator Nível 1, concluí o curso de pós-graduação
-    em Docência no Ensino Superior pela Unicesumar, atualmente Cursando pós-graduação em Estatística Aplicada pela
-    Universidade Anhanguera.</p>
-<p>O meu objetivo como discente no programa de pós-graduação em estatística na UFGRS é cooperar nos projetos de pesquisa
-    do uso da estatística no ambiente acadêmico e profissional com vistas à promoção e difusão do conhecimento, atuando
-    futuramente como docente nas disciplinas de nível superior correlatas, eu tenho interesse nas linhas de pesquisa:
-</p>
-  <ul>
-<li>Algoritmos de otimização,</li>
-<li> Métodos de agrupamento,</li>
-<li> Técnicas computacionais de seleção de modelo.</li>
-
-</ul>
-<p>Anseio pela oportunidade de cursar Estatística Computacional, acreditando na qualidade do curso, dos profissionais e
-    da instituição para o meu crescimento profissional e acadêmico.</p>
-
-                           </p>
-                        </div>
-                        <div class="nino-coverLetterFooter">
-                           <div>Atenciosamente,</div>
-                           <div class="nino-sign">William Dias Vargas</div>
-                        </div>
-                     </article>
-                  </div>
-               </section>
-</div>
-            </main>
-         </div>
- 
-         
-         </div>
-      </div>
-      <!-- Scroll to top
+        </div>
+        <!-- Scroll to top
          ================================================== -->
-      <a href="#" id="nino-scrollToTop">Go to Top</a>
-      <!-- javascript -->
-      <script defer async type="text/javascript" src="js/jquery.min.js"></script>
-      <script defer async type="text/javascript" src="js/bootstrap.min.js"></script>
-      <script defer async type="text/javascript" src="js/template.js"></script>
-      <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-      <!--[if lt IE 9]>
+        <a href="#" id="nino-scrollToTop">Go to Top</a>
+        <!-- javascript -->
+        <script defer async type="text/javascript" src="js/jquery.min.js"></script>
+        <script defer async type="text/javascript" src="js/bootstrap.min.js"></script>
+        <script defer async type="text/javascript" src="js/template.js"></script>
+        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
       <![endif]-->
-      <!-- css3-mediaqueries.js for IE less than 9 -->
-      <!--[if lt IE 9]>
+        <!-- css3-mediaqueries.js for IE less than 9 -->
+        <!--[if lt IE 9]>
       <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
       <![endif]-->
-   </body>
+    </body>
+
 </html>
