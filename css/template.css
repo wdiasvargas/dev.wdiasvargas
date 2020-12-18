@@ -6,7 +6,18 @@ html {
 	-ms-text-size-adjust: 100%
 }
 
+
+
 body {
+	font-family: 'Roboto Slab', serif;
+	font-display: swap;
+    font-size: 14px;
+	color: #2f3640;
+	font-weight: 300;
+	position: relative;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
 	margin: 0
 }
 
@@ -1380,13 +1391,7 @@ html {
 	-webkit-tap-highlight-color: transparent
 }
 
-body {
-	font-family: 'Roboto Slab', serif;
-	font-size: 14px;
-	line-height: 1.42857143;
-	color: #333;
-	background-color: #fff
-}
+
 
 button,
 input,
@@ -14643,6 +14648,7 @@ button.close {
 	font-size: 36px
 }
 
+
 .mdi-48px {
 	font-size: 48px
 }
@@ -14725,14 +14731,6 @@ html {
 	padding: 0
 }
 
-body {
-	color: #2f3640;
-	font-size: 13px;
-	font-weight: 300;
-	position: relative;
-	font-family: 'Roboto Slab', serif;
-	font-display: swap
-}
 
 article,
 aside,
