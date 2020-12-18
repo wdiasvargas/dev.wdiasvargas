@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200&display=swap');
+
 html {
 	font-family: sans-serif;
 	-webkit-text-size-adjust: 100%;
@@ -1379,7 +1381,7 @@ html {
 }
 
 body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 14px;
 	line-height: 1.42857143;
 	color: #333;
@@ -7150,7 +7152,7 @@ button.close {
 	position: absolute;
 	z-index: 1070;
 	display: block;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 400;
@@ -7282,7 +7284,7 @@ button.close {
 	display: none;
 	max-width: 276px;
 	padding: 1px;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 14px;
 	font-style: normal;
 	font-weight: 400;
