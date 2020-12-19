@@ -1,0 +1,198 @@
+certificados
+                <div id="nino-rightSide" class="fg">
+                    <main id="nino-mainContent">
+                        <section>
+                            <h2 class=nino-sectionHeading> <i class="mdi mdi-school nino-icon"></i>CERTIFICADOS</h2>
+                            <div class=nino-sectionContent>
+                                <div class=inner>
+                                    <div class="timeline-item   " date-is='2020'>
+                                        <p>
+                                            <a target="_blank"
+                                                href="https://cursos.alura.com.br/certificate/e8c77869-9e01-4e9b-a404-dc1fd164732a">ESTATÍSTICA
+                                                COM PYTHON PARTE 1: FREQUÊNCIAS E MEDIDAS</a>
+                                            <br>
+                                            <a target="_blank"
+                                                href="https://cursos.alura.com.br/certificate/20b15e08-8dd2-4095-a0ed-9a70147f37ee">WORDPRESS:
+                                                INTEGRAÇÃO WHATSAPP E INTERNACIONALIZAÇÃO</a>
+                                            <br>
+                                            <a target="_blank"
+                                                href="https://cursos.alura.com.br/certificate/822b1c8b-9bc9-4dbb-b600-53ada7db97b8">WORDPRESS:
+                                                SITES COM ELEMENTOR</a>
+                                            <br>
+                                            <a target="_blank"
+                                                href="https://app.universoead.com.br/facelift/certificado.php?hash=b8c050a1b6f615b4fcdb52f99e9b1fd036c0b8e3111&idAluno=28785">UNIVERSO
+                                                EM PESQUISA E PRÁTICA</a>
+                                            <br>
+                                            <a target="_blank"
+                                                href="https://www.schoolofnet.com/validar-certificado/?certificate=588512f2-913d-4dd5-a5ce-43d59f7af745">DART
+                                                PARA WEB</a>
+                                            <br>
+                                            <a target="_blank"
+                                                href="./certificados/2020/76f6bab67be6024118d289e8463a7e85.pdf">DART:
+                                                PRIMEIROS PASSOS COM A LINGUAGEM</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2020/78791364c5a967ec5442179706e039f5.pdf">ECMASCRIPT
+                                                8 E 9</a>
+                                            <br>
+                                            <a target="_blank"
+                                                href="./certificados/2020/2b652a94c4028e3da418664dbb66c692.pdf">PERFORMANCE
+                                                WEB I: OTIMIZANDO O FRONT-END</a>
+                                        </p>
+                                        <hr>
+                                    </div>
+                                    <div class="timeline-item  " date-is='2019'>
+                                        <p>
+                                            <a target="_blank"
+                                                href="./certificados/2019/76c4ffe3acbebf1940cfc55736b31e82.pdf">OFICINA
+                                                DE METODOLOGIAS ATIVAS</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/4d98c4b85d7aeeed47376195684e6e74.pdf">LINUX
+                                                I</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/de0571da79766fceda7255c1a8559ee9.pdf">LINUX
+                                                II</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/7ba5ea7de4a3485e991136981ac4d7ea.pdf">HTTP:
+                                                ENTENDENDO A WEB POR BAIXO DOS PANOS</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/30f2e95995872ba34d79967f651bcbfb.pdf">HTML5 E
+                                                CSS3 I: SUAS PRIMEIRAS PÁGINAS DA WEB</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/bffce4623e1b75cba2dad7b272b0409e.pdf">HTML5 E
+                                                CSS3 PARTE 1: A PRIMEIRA PÁGINA DA WEB</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/b8b53e13dc7356e7af958c4d49f3265d.pdf">SASS E
+                                                COMPASS</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/2bb5bfe35cf49c60d2e2792fe0d39095.pdf">JAVASCRIPT:
+                                                CONHECENDO O BROWSER</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/831942171d6a1fec590e3fa6d239a177.pdf">JAVASCRIPT:
+                                                PROGRAMANDO NA LINGUAGEM DA WEB</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/b9d6a890892aa261ccc587640de75b23.pdf">JQUERY
+                                                PARTE 1</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/8cd3860864e3cfd9a6fec34454d0ea38.pdf">TYPESCRIPT
+                                                PARTE 1: EVOLUINDO SEU JAVASCRIPT</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/9bbcba6b60177fc9855879cce35d495f.pdf">JASMINE:
+                                                TESTES AUTOMATIZADOS EM JAVASCRIPT</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/83f3517acb7ba9ba7164beba3c677f99.pdf">GRÁFICOS
+                                                NA WEB PARTE 1</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/336fa637b0996640e25407da9fed106e.pdf">GRÁFICOS
+                                                NA WEB PARTE 2</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/6dfb04ea6c9197e04b7632ef6dd3b047.pdf">GRÁFICOS
+                                                NA WEB PARTE 3</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/e5e2d355b52cca06568ae86c68071f0e.pdf">GULP:
+                                                AUTOMAÇÃO DE TAREFAS FRONT-END</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/7abdb8ccc38b4aaf71d74406a39d4354.pdf">GIT E
+                                                GITHUB: CONTROLE E COMPARTILHE SEU CÓDIGO</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/33e574a6c3db75aad15bb13937dfe016.pdf">GIT:
+                                                CONTROLE E COMPARTILHE SEU CÓDIGO</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/c44aebb998f05b6ad375afbf1cfddacc.pdf">WEBPACK:
+                                                MANIPULANDO MÓDULOS NA SUA WEBAPP</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2019/bb39cb2ed027d19b8f0b3d836a7b87f2.pdf">DOCKER:
+                                                CRIANDO CONTAINERS SEM DOR DE CABEÇA</a><br>
+                                        </p>
+                                        <hr>
+                                    </div>
+                                    <div class="timeline-item  " date-is='2018'>
+                                        <p>
+                                            <a target="_blank"
+                                                href="./certificados/2018/e94cbe80c7bde63bb24c509b5d1f74b4.pdf">DÉCOUVRIR
+                                                JAVASCRIPT EN 30 MINUTES</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2018/ba2d08f7b1613c51f34e06e8c530c38f.pdf">FOUNDATION
+                                                5</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2018/2be95cabd988ead7b7748d0f3f6224ef.pdf">MATERIALIZE
+                                                CSS FRAMEWORK</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2018/648f00ec49afcfab30a2943a771e0333.pdf">COMPOSER
+                                                PARA INICIANTES</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2018/5649ffb0c95ae22778d5b46b4a0608df.pdf">INICIANDO
+                                                REACT</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2018/a6896a3c8a9c23d95020e35c4efa2040.pdf">GIT E
+                                                GITHUB</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2018/64d64321e8767a1374cb94b8205c4283.pdf">REACT
+                                                NINJA</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2018/d59ca8954eac21489ccdb6598dd20676.pdf">AUTO
+                                                GESTÃO</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2018/80179403f2040fafa251ad028e13538b.pdf">INTELIGÊNCIA
+                                                EMOCIONAL</a><br>
+                                            <a target="_blank"
+                                                href="./certificados/2018/b664ef9377a9ca3c4f49dff6c4e1c9b5.pdf">CUTTING-EDGE
+                                                LEADERSHIP: LEADING WITH SENSE</a><br>
+                                        </p>
+                                        <hr>
+                                    </div>
+                                </div>
+                              <div class="timeline-item  " date-is='2017'>
+                              <a target="_blank" href="./certificados/2017/dd7daa05b8a73ea9ee95749f57a66914.pdf">PADRÃO DE COMPORTAMENTO, LIMPEZA E ORGANIZAÇÃO</a><br>          
+                              <div class="timeline-item  " date-is='2016'>
+                              <p>
+                              <a target="_blank" href="./certificados/2016/45836db6437bc91d7a4962af2d58fb83.pdf">CIDADE DIGITAL</a><br>
+                              <a target="_blank" href="./certificados/2016/50daae7e6c6da7209d0191de00d454ee.pdf">PROFESSOR DESENVOLVIMENTO WEB</a><br>
+                              <a target="_blank" href="./certificados/2016/5fb85d89bd58f8ffbaaae77630661919.pdf">PROFESSOR INFORMÁTICA BÁSICA</a><br>
+                              <a target="_blank" href="./certificados/2016/739ec432fd7263fbe7c2ccadd0346189.pdf">O USO DO BLOG COMO FERRAMENTA PEDAGOGICA</a><br>
+                              <a target="_blank" href="./certificados/2016/78250fa0185010bdb2cc23728f2445da.pdf">ALINHAMENTO PARA APLICAÇÃO DE EXAMES</a><br>
+                              <a target="_blank" href="./certificados/2016/82baf5cd76f1a20abde40381502d07e7.pdf">WORD PARA TCC</a><br>
+                              <a target="_blank" href="./certificados/2016/b5cfa632154bc9c8222e71de9d084856.pdf">FERRAMENTAS OPEN-SOURCE PARA ENGENHARIAS</a><br>
+                              <a target="_blank" href="./certificados/2016/ea40bbe844eeb73f603dd1d24483bd41.pdf">SALA DE AULA DIGITAL</a><br>
+                              </p>
+                              <div class="timeline-item  " date-is='2015'>
+                              <p>
+                              <a target="_blank" href="./certificados/2015/2f003f7e3b73f28fbc7d012639f9601d.pdf">VI SEMINÁRIO DE INFORMÁTICA NA EDUCAÇÃO</a><br>
+                              <a target="_blank" href="./certificados/2015/316a6ee92a3667d86d1fd77b139a7849.pdf">VI SEMINÁRIO DE INFORMÁTICA NA EDUCAÇÃO</a><br>
+                              <a target="_blank" href="./certificados/2015/4b831606394536d270a97d8bf379c07e.pdf">VI SEMINÁRIO DE INFORMÁTICA NA EDUCAÇÃO</a><br>
+                              <a target="_blank" href="./certificados/2015/ab0214d494cd589be569a871a955a609.pdf">PROFESSOR DE INFORMÁTICA BÁSICA</a><br>
+                              <a target="_blank" href="./certificados/2015/c7ae28bb5ebe259cee1efd245d374df3.pdf">PROFESOR LINUX EDUCACIONAL</a><br>
+                              <a target="_blank" href="./certificados/2015/e1be10fe5243bc695c08d3b7f6200b37.pdf">PARTICIPAÇÃO CÉLULA RÁDIO REFÚGIO</a><br>
+                              </p>
+                              <div class="timeline-item  " date-is='2013'>
+                              <p>
+                              <a target="_blank" href="./certificados/2013/91f02b2c92c6d845d47769f45b9d3519.pdf">V SEMINÁRIO DE INFORMÁTICA NA EDUCAÇÃO</a><br>
+                              </p>
+                              <div class="timeline-item  " date-is='2011'>
+                              <p>
+                              <a target="_blank" href="./certificados/2011/9664bdccd36f73e8431963195ac368dc.pdf">VENDEDOR COM INFORMÁTICA BÁSICA</a><br>
+                              <a target="_blank" href="./certificados/2011/9b018e10c2daa90d78c2466b0a5e2c32.pdf">WEB DESIGN</a><br>
+                              <a target="_blank" href="./certificados/2011/cbda84cfdb28a6ccd6c9842a8ea27c0c.pdf">WEB DESIGN OC</a><br>       
+                              </p>
+                              <div class="timeline-item  " date-is='2010'>
+                              <p>
+                              <a target="_blank" href="./certificados/2010/4c18bfd9d23d94916646e9f2ea64a469.pdf">COMUNICAÇÃO</a><br>
+                              <a target="_blank" href="./certificados/2010/8ddc8805ec75535d5656a32b2e49d0e0.pdf">OPERADOR E MANTENEDOR DE MICROCOMPUTADOR</a><br>
+                              <a target="_blank" href="./certificados/2010/a3ad9096a6e65fe1f43125bbb5210365.pdf">RELACIONAMENTO INTERPESSOAL</a><br>
+                              <a target="_blank" href="./certificados/2010/b015451aa94cb45d606c563aefe79624.pdf">AUTO ATENDIMENTO</a><br>
+                              </p>
+                              <div class="timeline-item " date-is='2009'>
+                              <p>
+                              <a target="_blank" href="./certificados/2009/1dd5cf6fd1794750d39b30cc741a3059.pdf">TÉCNICAS DE DIGITAÇÃO</a><br>
+                              <a target="_blank" href="./certificados/2009/1f4f450e1800c23be67df926ef116595.pdf">WINDOWS 2000</a><br>
+                              <a target="_blank" href="./certificados/2009/cc2c945588e01eae4f8fd9590a8cfbad.pdf">WORD 2003</a><br>
+                              <a target="_blank" href="./certificados/2009/2fcbeab955ddec3e746f96c873a31470.pdf">EXCEL 2003</a><br>
+                              <a target="_blank" href="./certificados/2009/b1aeec21791daed979cf5ff5a85e8244.pdf">POWER POINT 2003 </a><br>
+                              <a target="_blank" href="./certificados/2009/3f937e9a0310ad4db67b2ac5f34e50f1.pdf">REDES ABERTAS INTERNET</a><br>
+                              <a target="_blank" href="./certificados/2009/72f1aa1a799df5eab427d20300b10c15.pdf">COREL DRAW</a><br>
+                              <a target="_blank" href="./certificados/2009/29c28d190439293340cc0a8a18a18beb.pdf">MONTAGEM E MANUTENÇÃO DE COMPUTADORES</a><br>
+                              </p>
+                              <div class="timeline-item  " date-is='2004'>
+                              <p>
+                              <a target="_blank" href="./certificados/2004/0cf6422f32af70e0e0fd5f2153abe434.pdf">ALUNO DESTAQUE 1º BIMESTRE </a><br>
+                              <a target="_blank" href="./certificados/2004/c34a88b8ee522b79a62c34ef6945e604.pdf">ALUNO DESTAQUE 3º BIMESTRE </a><br>     
+                              </p>
