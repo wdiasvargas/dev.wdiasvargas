@@ -15234,7 +15234,7 @@ section .nino-sectionContent>.inner {
 }
 
 .indent-text {
-  text-indent: 2em;
+  text-indent: 1em;
   text-align: justify;
   text-justify: inter-word
 }
